@@ -6,7 +6,7 @@ import sitemap from "@astrojs/sitemap";
 // https://astro.build/config
 export default defineConfig({
   site: 'https://eloitor.github.io/homepage',
-  base: '/academic-homepage-typst/',
+  base: '/homepage/',
   
   integrations: [
     sitemap({
