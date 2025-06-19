@@ -8,7 +8,7 @@
 
 === 🎖️ Awards & Honors
 
-– Spanish Olympiad in Informatics 10th Place – Bronze Medal, 2014
+– Spanish Olympiad in Informatics #link("https://olimpiada-informatica.org/content/resultados-xviii-oie-2014")[10th Place] – Bronze Medal, 2014
 
 
 
