@@ -14,4 +14,7 @@
 
 === 💼 Professional Experiences
 
+Aslogic (UAB Spin-off), Rubí, Spain Summer 2018
+  - Expanded a Java library for truck route optimization in logistics applications
+  - 220-hour academic internship
 
