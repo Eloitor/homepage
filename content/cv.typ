@@ -8,6 +8,8 @@
 
 === 🎖️ Awards & Honors
 
+– Spanish Olympiad in Informatics 10th Place – Bronze Medal, 2014
+
 
 
 === 💼 Professional Experiences
